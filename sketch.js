@@ -294,7 +294,7 @@ if(gameState === SERVE3){
       
        if(mousePressedOver(level1)){
     
-        location.href = 'https://anshugahlyan.github.io/2g/index.html';
+        location.href = 'https://yip.su/2lagd3';
         
      gameState = SERVE7;
            p =1;
