@@ -294,7 +294,7 @@ if(gameState === SERVE3){
       
        if(mousePressedOver(level1)){
     
-        location.href = 'https://yip.su/2lagd3';
+        window.location.replace("https://yip.su/2lagd3");
         
      gameState = SERVE7;
            p =1;
